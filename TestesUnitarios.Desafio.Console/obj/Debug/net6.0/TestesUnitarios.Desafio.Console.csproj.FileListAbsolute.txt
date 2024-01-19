@@ -1,0 +1,14 @@
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.exe
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.deps.json
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\refint\TestesUnitarios.Desafio.Console.dll
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+C:\Users\Jao\OneDrive\Área de Trabalho\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\ref\TestesUnitarios.Desafio.Console.dll
